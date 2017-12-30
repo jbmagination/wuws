@@ -2,6 +2,10 @@
 
 Changelog:
 
+- WUWS 0.9
+
+Added people to the credits. They helped me out a lot. Added a message to the credits. Still not ready for use yet.
+
 - WUWS 0.8
 
 Added famicom to the WUWS page! I'm getting tired of the Verizon logo on my webpage. For a demo of how this will look, go [here](https://bit.ly/wuwslogodemo). Still not ready for use yet. 
