@@ -2,6 +2,10 @@
 
 Changelog:
 
+- WUWS 0.7
+
+Huh, the image didn't center. Still not ready for use yet. 
+
 - WUWS 0.6
 
 Centered image, fixed WUWS 0.5 changelog. Still not ready for use yet. 
