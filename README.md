@@ -3,6 +3,10 @@ WUWS stands for Wii U Web Server. Still WIP. Currently supports Homebrew 1.0, 1.
 
 Changelog:
 
+- WUWS 0.5
+
+Made logo smaller, fixed credits page, added new domain!
+
 - WUWS 0.4
 
 Added logo to WUWS, removed Travis CI, added credits page, fixed WUWS 0.3 changelog. Still not ready for use yet. 
