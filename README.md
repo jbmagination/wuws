@@ -6,6 +6,7 @@ Changelog:
 - WUWS 0.4
 
 Added logo to WUWS, removed Travis CI, added credits page, fixed WUWS 0.3 changelog. Still not ready for use yet. 
+
 - WUWS 0.3
 
 Added a title to the WUWS page. Still not ready for use yet.
