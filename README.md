@@ -2,6 +2,9 @@
 
 Changelog:
 
+- WUWS 1.0
+
+Added 5.5.2 support! Ready for use (I think.)
 - WUWS 0.9
 
 Added people to the credits. They helped me out a lot. Added a message to the credits. Still not ready for use yet.
