@@ -2,6 +2,10 @@
 
 Changelog:
 
+- WUWS 1.1
+
+Legitimately added 5.5.2 support. Added from a suggestion on our [GBATemp page](https://gbatemp.net/threads/wuws-just-another-way-to-access-homebrew.495989/) - "Literally just a badly made github pages site with redirects to stupiid payloads. Useless." Posted by [Create_](https://gbatemp.net/members/create_.427071/) 
+
 - WUWS 1.0
 
 Added 5.5.2 support! Ready for use (I think.)
