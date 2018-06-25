@@ -2,6 +2,10 @@
 
 Changelog:
 
+- WUWS 1.2
+
+Added Homebrew Launcher 1.3 support. 5.5.1 support is complete.
+
 - WUWS 1.1
 
 Legitimately added 5.5.2 support. Added from a suggestion on our [GBATemp page](https://gbatemp.net/threads/wuws-just-another-way-to-access-homebrew.495989/) - "Literally just a badly made github pages site with redirects to stupiid payloads. Useless." Posted by [Create_](https://gbatemp.net/members/create_.427071/) 
