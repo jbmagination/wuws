@@ -1,12 +1,13 @@
 ![WUWS logo](wuws-logo.png)
 
+<h3 align="center">Currently rebranding to NHWS!</center></h3>
 Changelog:
 
 - WUWS 1.3
 
 Hopefully, the last version of WUWS. Attempt to start works on rebranding to NHWS. Remove credits, cookie notice (I don't have a net neutrality notice on this page anymore), I think Google Analytics was removed long ago.
 
-These commits are horrible... but either way, I have some work to do!
+This code and these commits look absolutely horrible... but either way, I have some work to do! This place'll look much, much better by the time NHWS is usable for the public.
 
 - WUWS 1.2
 
