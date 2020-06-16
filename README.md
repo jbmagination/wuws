@@ -2,6 +2,12 @@
 
 Changelog:
 
+- WUWS 1.3
+
+Hopefully, the last version of WUWS. Attempt to start works on rebranding to NHWS. Remove credits, cookie notice (I don't have a net neutrality notice on this page anymore), I think Google Analytics was removed long ago.
+
+These commits are horrible... but either way, I have some work to do!
+
 - WUWS 1.2
 
 Added Homebrew Launcher 1.3 support. 5.5.1 support is complete.
